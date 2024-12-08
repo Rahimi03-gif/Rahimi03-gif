@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm [Rahimi03] 👋
 
-<!--
-**Rahimi03-gif/Rahimi03-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer always eager to learn new things and build amazing projects. Below you'll find some stats about my GitHub activity.
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahimi03show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimi03&layout=compact&theme=radical)
+
+### 🛠️ Technologies & Tools
+- JavaScript
+- HTML & CSS
+- React
+- Node.js
+- Python
+- Git
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- [Twitter](https://twitter.com/YOUR_TWITTER)
+- Email: your.email@example.com
